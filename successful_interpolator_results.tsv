@@ -1,0 +1,32 @@
+Participant ID	Length 2: Grammatical	Length 2: Ungrammatical	Length 4: Grammatical	Length 4: Ungrammatical	Length 6: Grammatical	Length 6: Ungrammatical	Length 8: Grammatical	Length 8: Ungrammatical	Hypothesized rule(s)	Participant's free response answer
+438364_QI	0.66	0.33	1	0.8	1	0.75	0.87	0.62	Interp and extrap	Trying to remember the pairs
+498031_QI	1	1	1	0.8	1	0.75	0.87	0.87	Interp and extrap	a pattern emerged
+357519_QI	1	1	1	0.8	0.87	0.75	0.87	0.87	Interp and extrap	i noticed that the words on top row matched the bottom rows, except they ran in reverse order on the second half of the sentence. kinda hard to explain
+678669_QI	0.66	1	1	0.6	1	1	0.87	1	Interp and extrap	It was always a sequence.
+929320_QI	1	1	1	0.6	1	0.75	0.87	0.87	Interp and extrap	I noticed that the top words were always paired with a bottom word, and it was always a sequence of top words followed by their bottom pairs in reverse order.
+951212_QI	1	0.66	1	0.6	1	1	1	0.87	Interp and extrap	
+803841_QI	1	1	1	0.8	1	1	1	1	Interp and extrap	From the middle of the sentence moving out, each word needs to match with its corresponding word.
+136852_QI	1	1	1	1	1	1	1	1	Interp and extrap	the number of letters needed to match, from the center of the sentence out so depending on length (1=2) or (2=3 + 1=4) ect.
+475247_QI	1	1	1	1	1	1	1	0.87	Interp and extrap	There were pairs above and below each other in the test phase. The order of the first half of the sentence had to match the reverse order of those words paired word in the second half of the sentence.
+881668_QI	1	1	1	0.6	1	0.62	1	0.75	Interp and extrap	
+907233_QI	1	1	1	1	1	1	1	1	Interp and extrap	Based on my observations, it looked like words were linked together based on their position of top and bottom. The sentence always started with a top word, and either the word below it followed, or another top word. If another top word, then the next word would be either the one below it, or another top word. If it was the one below it, then the order would reverse and the next word would be a bottom word below the previous top word, and so on.
+390548_QI	1	0.66	0.8	0.6	0.87	1	0.87	0.87	Interp and extrap	I started in the middle to see if those two words went together and worked my way toward the edges one at a time to verify each of those pairs went together. If I had trouble remembering if they did, I knew that each pairs that went together had the same number of letters so I could rule out matches that way.
+176236_QI	1	0.66	1	1	1	0.75	1	0.62	Interp and extrap	
+999529_QI	1	1	1	1	1	1	1	1	Interp and extrap	I depended on the rows that the words were placed in during the trials. If a word in the top row is used, then the corresponding word on the bottom row will also be used. The corresponding words will be used in reverse order(if \""gri\"" is used first in the sentence, then the corresponding \""klo\"" will last in the sentence).
+676860_QI	1	1	1	1	1	1	1	1	Interp and extrap	every time that a top sequence was made on the study part had a counter sequence on the bottom, so i just learned that
+667712_QI	1	1	1	0.8	0.87	0.75	0.75	1	Interp and extrap	
+859264_QI	1	0.66	1	1	1	1	1	0.75	Interp and extrap	
+556072_QI	1	0.66	1	0.8	1	1	1	0.75	Interp and extrap	I looked at the order and tried to remember how they were organized in the grid. On the top, we will call them: A, B, C, D, etc. Bottom was: A2, B2, C2, D2, etc. I would go words on the top, then words on the bottom in reverse order of the top. So, A B C D D2 C2 B2 A2.
+776625_QI	1	1	1	1	1	1	1	1	Interp and extrap	
+400513_QI	0.66	0.33	0.8	1	0.87	1	0.87	0.62	Interp and extrap	
+511052_QI	1	1	1	1	1	0.87	1	1	Interp and extrap	I tried to remember the sequences.
+756750_QI	1	1	1	1	1	1	1	1	Interp and extrap	
+944795_QI	1	0.66	1	1	1	0.87	1	0.5	Interp and extrap,Interp extrap good	
+639420_QI	1	0.66	1	0.8	0.87	0.62	0.87	0.37	Interp extrap good	I tried to remember how they were paired and sequenced in the training then I made my decision.
+378320_QI	1	0.66	0.8	0.8	0.75	0.87	0.37	0.87	Interp only	it took me a while to see the pattern, but it looked like certain pairs of words should appear in an equally distant location from the center. For example. D C B A A B C D. From there, it was also necessary to remember the pairs. I am uncertain if order of appearance matters. (plom brin == brin plom?)
+617419_QI	0.33	0.33	0.2	0.6	0.87	0.75	0.62	0.25		
+727789_QI	0.33	0	0.6	0.4	0.87	0.62	0.75	0.62		Just went by the length of the letters, if they were more varied, I thought it was a sentence.
+706404_QI	0.33	0.33	0.8	0	0.75	0.75	0.37	0.62		
+677248_QI	1	0	0.8	0.2	1	0.5	0.62	0.37		
+499588_QI	1	1	0.6	0.8	0.87	0.62	0.5	0.5		
+Mean	0.899	0.7533333333	0.9133333333	0.78	0.9486666667	0.853	0.8646666667	0.781		
