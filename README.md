@@ -46,4 +46,13 @@ Here are the rules we considered for the **Hypothesized rule(s)** column. We use
 This code is licensed under an [MIT License](https://github.com/tommccoy1/center_embedding_extrapolation/blob/main/LICENSE).
 
 
+## Citing
+
+If you make use of these materials, please cite the following ([bibtex](http://rtmccoy.com/center_embedding_bib.html)):
+
+R. Thomas McCoy, Jennifer Culbertson, Paul Smolensky, and Géraldine Legendre. 2021. Infinite use of finite means? Evaluating the generalization of center embedding learned from an artificial grammar.  In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society*. 
+
+*Questions? Comments? Email [tom.mccoy@jhu.edu](mailto:tom.mccoy@jhu.edu).*
+
+
 
